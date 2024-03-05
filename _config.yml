@@ -12,7 +12,7 @@ permalink: "/assets/blog/posts/:year/:month/:day/:title:output_ext"
 blog_feature: true
 show_wiki_posts: true
 show_wiki_posts_limit: 5
-logo_url: assets/images/library-of-alexandira.png
+logo_url: assets/images/library-of-alexandria.jpg
 google_analytics:
 git_branch: gh-pages
 use_github_wiki: false
