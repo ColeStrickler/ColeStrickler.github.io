@@ -1,5 +1,5 @@
 # (string) Title of your wiki
-title: git-wiki
+title: Library Of Cole Strickler
 demo_ver: 1.0.22
 remote_theme: Drassil/git-wiki-theme@master
 description: Git-Wiki demo and documentation
@@ -12,7 +12,7 @@ permalink: "/assets/blog/posts/:year/:month/:day/:title:output_ext"
 blog_feature: true
 show_wiki_posts: true
 show_wiki_posts_limit: 5
-logo_url: assets/images/1200px-Wikipedia-logo-v2.svg_.png
+logo_url: assets/images/library-of-alexandira.png
 google_analytics:
 git_branch: gh-pages
 use_github_wiki: false
