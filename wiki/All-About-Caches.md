@@ -3,7 +3,13 @@
 ### Caching Overview
 
 # Cache Performance Formula
-_**(Average MemoryAccessTime) = (HitTime)(Miss Penalty)**_
+_**(Average MemoryAccessTime) = (HitTime) * (Miss Penalty)**_
+
+# Block Placement
+A key cache design design is where blocks/lines are allowed to be placed within a cache. 
+
+1. Set Associative --> A "set" is a group of blocks in the cache, the block is first mapped into a set and					   	   then can be placed anywhere within the set. If there are N sets the cache is said to  					    be N-Way set associative
+2. 
 
 # Types of Cache Misses
 - Compulsory --> first access to a block will not be in cache, AKA cold cache, cold start misses
