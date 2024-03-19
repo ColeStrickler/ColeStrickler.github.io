@@ -6,7 +6,7 @@ published: true
 # Welcome !
 
 This site is a collection of project showcasing/documentation, notes, personal thoughts, and other obcure things.
-$$ \prod 69
+$$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
 
 ## Project Page
 
